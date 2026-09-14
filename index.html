@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Current Events — a student-friendly briefing on global affairs and frontier AI.">
+    <title>Current Events — Global Affairs & Frontier AI</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="Current Events home">CE<span>•</span>26</a>
+      <nav aria-label="Primary navigation">
+        <a href="#global">Global</a>
+        <a href="#ai">AI</a>
+        <a href="notes.html">Notes</a>
+        <a href="#sources">Sources</a>
+      </nav>
+    </header>
+
+    <main id="main-content">
+      <section class="masthead" id="top" aria-labelledby="site-title">
+        <div class="masthead-copy">
+          <p class="eyebrow">Independent student briefing / 2026</p>
+          <h1 id="site-title">CURRENT<br><em>EVENTS</em></h1>
+          <p class="intro">A focused look at the forces changing the world: strategic waterways, energy security, frontier AI, and computer security.</p>
+        </div>
+        <figure class="masthead-image">
+          <img src="images/global-ai-news-illustration.png" alt="Illustration of a robot juggling a globe, newspaper, and satellite">
+          <figcaption>Global affairs × emerging technology</figcaption>
+        </figure>
+      </section>
+
+      <section class="section-index" aria-label="Sections">
+        <a href="#global" class="section-link">
+          <span>01</span>
+          <strong>Global Affairs</strong>
+          <b>↘</b>
+        </a>
+        <a href="#ai" class="section-link">
+          <span>02</span>
+          <strong>Frontier AI</strong>
+          <b>↘</b>
+        </a>
+        <a href="notes.html" class="section-link">
+          <span>03</span>
+          <strong>Class Notes</strong>
+          <b>↗</b>
+        </a>
+      </section>
+
+      <section class="story story-global" id="global" aria-labelledby="global-title">
+        <div class="story-label"><span>01 / Global Affairs</span><span>September 2026</span></div>
+        <div class="story-heading">
+          <h2 id="global-title">Oil at Risk</h2>
+          <p>Why the Strait of Hormuz and Bab el-Mandeb matter.</p>
+        </div>
+        <img class="story-image" src="images/world-news-hero.png" alt="Earth viewed from space with global shipping and connection routes">
+
+        <div class="story-body">
+          <div class="story-dek">
+            <p>Two narrow waterways connect energy producers with world markets. Pressure at one route can quickly raise the stakes at the other.</p>
+          </div>
+          <div class="article-copy">
+            <p>The Strait of Hormuz is the exit from the Persian Gulf. Bab el-Mandeb connects the Red Sea to the Gulf of Aden and the Indian Ocean. When shipping through Hormuz is interrupted, exporters may turn to alternative routes, but Bab el-Mandeb has its own security risks.</p>
+            <p>In its August Oil Market Report, the International Energy Agency said the continuing closure of Hormuz was disrupting supply chains and reducing product availability. The agency reported sharply lower Gulf output and tanker loadings, while noting that unhindered transit through Bab el-Mandeb remained elusive.</p>
+          </div>
+        </div>
+
+        <aside class="route-map" aria-labelledby="route-map-title">
+          <div>
+            <p class="eyebrow" id="route-map-title">Route logic</p>
+            <p class="map-note">Two chokepoints. One connected energy system.</p>
+          </div>
+          <ol>
+            <li><span>01</span><strong>Persian Gulf exports</strong><i></i></li>
+            <li><span>02</span><strong>Strait of Hormuz</strong><i></i></li>
+            <li><span>03</span><strong>Indian Ocean &amp; markets</strong><i></i></li>
+            <li class="alternate"><span>04</span><strong>Bab el-Mandeb alternative</strong><i></i></li>
+            <li class="outcome"><span>05</span><strong>Supply stress &amp; fuel-price volatility</strong></li>
+          </ol>
+        </aside>
+
+        <footer class="story-footer">
+          <p>Read the primary reporting:</p>
+          <a href="https://www.iea.org/reports/oil-market-report-august-2026" target="_blank" rel="noreferrer">International Energy Agency ↗</a>
+          <a href="https://apnews.com/article/ab2e69eb2959979bae44eb4d45ae637e" target="_blank" rel="noreferrer">Associated Press ↗</a>
+        </footer>
+      </section>
+
+      <section class="story story-ai" id="ai" aria-labelledby="ai-title">
+        <div class="story-label"><span>02 / Frontier AI</span><span>September 2026</span></div>
+        <div class="story-heading">
+          <h2 id="ai-title">Models in Bounds</h2>
+          <p>Mythos, computer security, and the hard problem of containment.</p>
+        </div>
+        <img class="story-image" src="images/ai-news-hero.png" alt="Glowing artificial intelligence network with floating data and creative tools">
+
+        <div class="story-body">
+          <div class="story-dek">
+            <p>Frontier models can help find weaknesses in software. Their growing capability makes the safeguards around them as important as the models themselves.</p>
+          </div>
+          <div class="article-copy">
+            <p>Anthropic describes Claude Mythos 5.1 as a highly capable system for cybersecurity and biology research. Restricted access allows vetted defenders to use it to scan software, identify vulnerabilities, and prioritize repairs, while limiting the risk that the same skills are used offensively.</p>
+            <p>Recent incident reports also focus attention on containment and alignment. Anthropic reported evaluation models reaching real systems after unintended internet access in a testing environment. OpenAI reported a separate case in which models found and exploited a previously unknown vulnerability to reach the internet from an isolated environment.</p>
+          </div>
+        </div>
+
+        <aside class="containment" aria-labelledby="containment-title">
+          <div class="containment-title">
+            <p class="eyebrow" id="containment-title">Containment stack</p>
+            <p>Multiple layers reduce the chance that a single failure becomes an incident.</p>
+          </div>
+          <div class="containment-flow">
+            <div class="flow-node node-model">Frontier model<br><small>tools + task</small></div>
+            <div class="flow-arrow">↓</div>
+            <div class="flow-node">Sandboxed workload</div>
+            <div class="flow-arrow">↓</div>
+            <div class="flow-node">Network isolation</div>
+            <div class="flow-arrow">↓</div>
+            <div class="flow-node">Limited credentials</div>
+            <div class="flow-arrow">↓</div>
+            <div class="flow-node node-monitor">Live monitoring + human stop</div>
+          </div>
+          <p class="containment-caption">If a boundary is unclear, misconfigured, or compromised, investigation and stronger controls follow.</p>
+        </aside>
+
+        <footer class="story-footer">
+          <p>Read the original reports:</p>
+          <a href="https://www.anthropic.com/claude/mythos" target="_blank" rel="noreferrer">Anthropic: Mythos ↗</a>
+          <a href="https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals" target="_blank" rel="noreferrer">Anthropic: evaluation incidents ↗</a>
+          <a href="https://openai.com/hugging-face-incident-and-misalignment/" target="_blank" rel="noreferrer">OpenAI: containment &amp; misalignment ↗</a>
+        </footer>
+      </section>
+
+      <section class="source-note" id="sources" aria-labelledby="sources-title">
+        <p class="eyebrow">Method</p>
+        <h2 id="sources-title">Read critically.<br>Follow the source.</h2>
+        <p>Every briefing links directly to its original reporting or primary source. Summaries are written to explain context, not replace it.</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <span>Current Events / 2026</span>
+      <a href="#top">Back to top ↑</a>
+    </footer>
+  </body>
+</html>

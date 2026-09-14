@@ -5,17 +5,28 @@
 
   <p><strong>A student-friendly briefing on global developments and the technology shaping them.</strong></p>
 
-  <p><a href="global_events.md">Explore Global Events</a> · <a href="ai_events.md">Explore AI Events</a></p>
+  <p><a href="https://kaw393939.github.io/current-events/">Visit the GitHub Pages site</a> · <a href="assignment.md">Student notes &amp; assignment guide</a></p>
 </div>
 
-## Explore the Briefing
+## Project Pages
 
 | 🌍 Global Events | 🤖 AI Events |
 | --- | --- |
 | Follow international stories that affect people, trade, security, and everyday life. | Explore frontier AI, cybersecurity, alignment, and responsible technology. |
 | [Read Global Events →](global_events.md) | [Read AI Events →](ai_events.md) |
 
-## Featured Topics
+## Student Guide
+
+The assignment guide breaks this project into small, repeatable skills for Thursday’s class.
+
+- [Assignment overview and checklist](assignment.md)
+- [Project structure and technologies](notes/project-structure.md)
+- [Prompting, research, and source links](notes/prompting-and-research.md)
+- [Markdown and Mermaid diagrams](notes/markdown-and-mermaid.md)
+- [Terminal, filesystem, and Git commands](notes/terminal-and-git.md)
+- [GitHub Pages publishing](notes/github-pages.md)
+
+## Featured Articles
 
 - **Global:** [Why the Strait of Hormuz and Bab el-Mandeb matter to oil markets](global_events.md#oil-at-risk-why-the-strait-of-hormuz-and-bab-el-mandeb-matter)
 - **AI:** [How Mythos-class frontier models change computer-security concerns](ai_events.md#mythos-and-computer-security-the-double-edged-promise-of-frontier-models)
