@@ -1,23 +1,48 @@
 # Terminal & Git
 
-Use the terminal from inside your project folder.
+Type these in the **VS Code terminal**, inside your cloned project. Use zsh/bash on Mac or Git Bash on Windows. Run one command at a time.
+
+**Save** writes your file. **Add** stages changes for the next commit. **Commit** records a local version. **Push** sends commits to GitHub.
 
 ```bash
-git status                    # See changes
-git add .                     # Stage reviewed changes
-git commit -m "Explain change" # Save a version
-git push origin main          # Send it to GitHub
-git log --oneline -3          # See recent commits
+pwd                           # Check your current folder
+git status                    # Check changed and staged files
+git remote -v                 # Check your GitHub SSH address
 ```
 
-Need to switch tasks but keep an unfinished change?
+For the initial file setup, run from the project folder:
 
 ```bash
-git stash push -m "WIP change"
+git add *
+git status
+git commit -m "Set up project files"
+```
+
+For later commits, name the files belonging to that change:
+
+```bash
+git add README.md global-event.md ai-event.md notes/process.md
+git commit -m "Add Markdown content and links"
+```
+
+After the image commit, push and inspect the history:
+
+```bash
+git push origin main
+git log --oneline -4
+```
+
+Use your branch name from `git status` if it differs from `main`.
+
+**Stash** puts aside an unfinished edit. Add a temporary line to README.md and save, then:
+
+```bash
+git stash push -m "Practice README change"
 git stash list
-git stash pop
 ```
 
-`stash` temporarily puts away uncommitted work. `pop` brings it back.
+The line disappears. `git stash pop` restores it and removes that stash. On the exam, show both actions live. Remove the temporary line afterward and save.
 
-Always run `git status` before you add, commit, stash, or push. Do not use delete commands unless you know exactly what they remove.
+Stuck? Give Codex the command and its output. Ask for one next step, then check the result.
+
+[Back to the practice guide](../assignment.md)

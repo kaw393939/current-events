@@ -1,24 +1,47 @@
 # Markdown & Mermaid
 
-Markdown is fast, plain-text formatting.
+**Where:** open a `.md` file in VS Code's editor. Markdown uses plain text to create headings, links, lists, and images.
 
-```md
-# Big title
-## Smaller section
+This is a complete small page for `global-event.md`. Add the image line during the image commit, after saving the PNG.
 
-[A link](https://example.com)
+````markdown
+# Global Events
 
-![What the image shows](images/hero.png)
+*September 2026*
 
-- Bullet
-- Bullet
-```
+This is my global events practice page.
+I used AI to draft it and edited it in VS Code.
 
-Use Mermaid for a tiny explanation diagram:
+- Tools: VS Code, AI, and Git
+
+## My workflow
 
 ```mermaid
 flowchart LR
-  Prompt --> Edit --> Commit --> Push
+  Prompt --> Edit --> Commit
 ```
 
-Keep diagrams small. In VS Code, use **Markdown: Open Preview to the Side** from the Command Palette. Check links, images, and Mermaid on GitHub after pushing.
+![Illustrated globe](images/global-event.png)
+
+[Back to README](README.md)
+````
+
+The diagram renders like this on GitHub:
+
+```mermaid
+flowchart LR
+  Prompt --> Edit --> Commit
+```
+
+In `README.md`, link your two pages:
+
+```markdown
+- [Global Events](global-event.md)
+- [AI Events](ai-event.md)
+```
+
+For `ai-event.md`, use its own title and `images/ai-event.png`.
+
+**Check:** open the Command Palette with `Cmd+Shift+P` on Mac or `Ctrl+Shift+P` on Windows. Choose **Markdown: Open Preview to the Side**. You should see formatted headings and links. After pushing, click through the pages on GitHub to check images and Mermaid; your VS Code preview may show Mermaid as code.
+
+Broken image? Match the filename, capitalization, and folder path exactly.

@@ -1,20 +1,20 @@
 # Current Events
 
-Practice VS Code, Codex, file commands, Git, and Markdown.
+Your class example for VS Code, Codex, file commands, Git, and Markdown.
 
-## Start Here
+## Start here: practice before Thursday
 
-- [Do the in-class build](hands-on-test.md)
-- [Quick assignment checklist](assignment.md)
-- [Class notes](notes/README.md)
+[Follow the practice guide →](assignment.md)
 
-## Sample Pages
+Create a GitHub repo with a README, clone with SSH, make Markdown with AI, and save your work in three purposeful commits. Practice stash and push your files to GitHub.
+
+On Thursday, you'll repeat the workflow individually. **AI and Codex are part of the exam. Pass / fail.**
+
+[Thursday's hands-on exam](hands-on-test.md) · [Help with a specific step](notes/README.md)
+
+## Class examples
 
 - [Global Events](global_events.md)
 - [AI Events](ai_events.md)
 
-## The Idea
-
-Use AI to make text and images, organize your files, link your Markdown pages, and push your commits to GitHub.
-
-Website building comes next.
+The guide includes a [tiny Markdown example](notes/markdown-and-mermaid.md) to build from. Website building comes next.

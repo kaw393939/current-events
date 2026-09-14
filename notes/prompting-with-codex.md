@@ -1,19 +1,33 @@
 # Prompting with Codex
 
-Tell Codex what you want to make. Keep it short and clear.
+**Where:** Codex chat in VS Code, with your cloned repository open. AI is allowed throughout the exercise.
+
+After the setup commit, try:
 
 ```text
-Make a short Global Events Markdown page.
-Give it a title, date, two sections, a Mermaid diagram, and simple placeholder text.
+Edit global-event.md and ai-event.md. Give each a title,
+date, two short sentences, a list, and a three-box Mermaid diagram.
+Add relative links to both pages in README.md and a link
+back to README.md on each page. Leave images for the next
+stage. I will run the Git commands myself.
 ```
+
+Ask for one revision, such as “Make both pages shorter.” Save both prompts in `notes/process.md`, preview your files, and commit this stage before adding images.
+
+**Image stage:** use an available AI image tool. Try this for the global image, then request an AI-themed version:
 
 ```text
-Make a wide hero image for an AI page.
-Use navy, teal, and violet. No text, logos, or watermark.
+Create a small, wide illustration of a globe for a news
+page. Use simple shapes and bright colors. No text.
 ```
+
+Save actual PNG files as `images/global-event.png` and `images/ai-event.png`; changing another format's extension does not convert it. Then ask Codex:
 
 ```text
-Clean up README.md. Add headings and relative links to global-event.md and ai-event.md.
+Add each PNG to its matching Markdown page with
+descriptive alt text and a relative image path.
 ```
 
-If you do not like the result, say what to change. Example: “Make it shorter,” “use simpler words,” or “move the image higher.” Save one prompt, one image prompt, and one revision prompt in `notes/process.md`.
+Add your image prompt to `notes/process.md` before the image commit.
+
+**Stuck?** Paste the command and its output into Codex: “Explain what happened and give me the next step.”
