@@ -1,8 +1,6 @@
 # Current Events
 
-Build a simple news site with AI, Markdown, Git, and GitHub Pages.
-
-**Live site:** [kaw393939.github.io/current-events](https://kaw393939.github.io/current-events/)
+Practice VS Code, Codex, file commands, Git, and Markdown.
 
 ## Start Here
 
@@ -17,4 +15,6 @@ Build a simple news site with AI, Markdown, Git, and GitHub Pages.
 
 ## The Idea
 
-Use Codex to make sample text, images, and a simple site. Then use Git to save your work and GitHub Pages to share it. The words and topics are practice material—the workflow is the point.
+Use AI to make text and images, organize your files, link your Markdown pages, and push your commits to GitHub.
+
+Website building comes next.

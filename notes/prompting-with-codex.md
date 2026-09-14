@@ -13,7 +13,7 @@ Use navy, teal, and violet. No text, logos, or watermark.
 ```
 
 ```text
-Make the homepage cleaner. Add more space between sections and make both page links easy to find.
+Clean up README.md. Add headings and relative links to global-event.md and ai-event.md.
 ```
 
 If you do not like the result, say what to change. Example: “Make it shorter,” “use simpler words,” or “move the image higher.” Save one prompt, one image prompt, and one revision prompt in `notes/process.md`.

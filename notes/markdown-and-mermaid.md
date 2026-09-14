@@ -18,7 +18,7 @@ Use Mermaid for a tiny explanation diagram:
 
 ```mermaid
 flowchart LR
-  Prompt --> Make --> Save --> Publish
+  Prompt --> Edit --> Commit --> Push
 ```
 
-Do not make diagrams huge. If a paragraph already explains it, skip the diagram.
+Keep diagrams small. In VS Code, use **Markdown: Open Preview to the Side** from the Command Palette. Check links, images, and Mermaid on GitHub after pushing.
