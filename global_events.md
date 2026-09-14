@@ -1,2 +1,2 @@
 # Global Events
-![alt text](images/world-news-hero.png)
+<img src="images/world-news-hero.png" alt="Connected globe representing world news" width="720">

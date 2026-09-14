@@ -1,2 +1,2 @@
 # Ai Events
-![alt text](images/world-ai-update.png)
+<img src="images/ai-news-hero.png" alt="Artificial intelligence network representing AI news" width="720">
