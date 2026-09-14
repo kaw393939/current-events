@@ -8,5 +8,6 @@ These pages explain the pieces used to build the Current Events project. Read th
 - [Filesystem commands and project organization](files-and-organization.md)
 - [Terminal and Git](terminal-and-git.md)
 - [GitHub Pages](github-pages.md)
+- [Hands-on skills demonstration](../hands-on-test.md)
 
 The live class-notes page is also available at [notes.html](../notes.html) after the GitHub Pages site is published.

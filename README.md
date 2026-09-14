@@ -20,6 +20,7 @@
 The assignment guide breaks this project into small, repeatable skills for Thursday’s class.
 
 - [Assignment overview and checklist](assignment.md)
+- [Hands-on skills demonstration](hands-on-test.md)
 - [Project structure and technologies](notes/project-structure.md)
 - [Prompting, research, and source links](notes/prompting-and-research.md)
 - [Markdown and Mermaid diagrams](notes/markdown-and-mermaid.md)

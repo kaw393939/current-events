@@ -23,6 +23,10 @@ Create a public-facing current-events project with:
 5. [Use the terminal and Git safely](notes/terminal-and-git.md)
 6. [Publish with GitHub Pages](notes/github-pages.md)
 
+## Prove Your Skills
+
+After reviewing the example, complete the [hands-on skills demonstration](hands-on-test.md). It asks you to build a smaller version independently and show the evidence for each required skill.
+
 ## What This Example Includes
 
 | Area | Example in this repository |
