@@ -1,42 +1,16 @@
-# Current Events — Assignment & Build Notes
+# Quick Assignment Checklist
 
-This project is a reference for building a small current-events site. It combines two researched articles, original visuals, source links, diagrams, and a GitHub Pages homepage. Use it to understand the workflow, then make your own version.
+Make a mini current-events site like this one.
 
-## Your Goal
+- [ ] Codex works in VS Code.
+- [ ] GitHub SSH works.
+- [ ] You cloned your repo with SSH.
+- [ ] Your repo has a `README.md`, two Markdown articles, `index.html`, `styles.css`, `images/`, and `notes/process.md`.
+- [ ] You used Codex to research, write, and make images.
+- [ ] Both articles have a title, source link, image alt text, and Mermaid diagram.
+- [ ] Your homepage links to both articles.
+- [ ] You made two commits.
+- [ ] You used `git stash` once.
+- [ ] You pushed your work and published it on GitHub Pages.
 
-Create a public-facing current-events project with:
-
-- One Global Events article
-- One AI Events article
-- A concise, original summary for each article
-- Direct links to the original reporting or primary source
-- At least one image with meaningful alt text
-- A homepage that links clearly to the content
-- A Git commit history and a GitHub Pages deployment
-
-## Build Order
-
-1. [Plan the project structure and technologies](notes/project-structure.md)
-2. [Research a topic and write prompts that produce useful results](notes/prompting-and-research.md)
-3. [Format your writing with Markdown and Mermaid](notes/markdown-and-mermaid.md)
-4. [Keep project files organized and use filesystem commands safely](notes/files-and-organization.md)
-5. [Use the terminal and Git safely](notes/terminal-and-git.md)
-6. [Publish with GitHub Pages](notes/github-pages.md)
-
-## Prove Your Skills
-
-After reviewing the example, complete the [hands-on skills demonstration](hands-on-test.md). It asks you to build a smaller version independently and show the evidence for each required skill.
-
-## What This Example Includes
-
-| Area | Example in this repository |
-| --- | --- |
-| Global reporting | Oil shipping through the Strait of Hormuz and Bab el-Mandeb |
-| AI reporting | Frontier models, computer security, alignment, and containment |
-| Visual storytelling | Original hero images and simple route/containment diagrams |
-| Documentation | A README, topic pages, source links, and class notes |
-| Publishing | A static `index.html` site and GitHub Pages workflow |
-
-## Academic Integrity Reminder
-
-Use AI as a drafting, research, and revision partner—not as a substitute for understanding the material. Check every claim, write in your own voice, and make sure you can explain each part of your project.
+Need the step-by-step version? Open the [in-class build](hands-on-test.md).

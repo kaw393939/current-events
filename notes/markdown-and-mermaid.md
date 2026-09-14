@@ -1,41 +1,24 @@
 # Markdown & Mermaid
 
-Markdown is a lightweight way to format text without needing a word processor. GitHub automatically renders Markdown files.
-
-## Markdown Basics
+Markdown is fast, plain-text formatting.
 
 ```md
-# Main heading
-## Section heading
+# Big title
+## Smaller section
 
-This is a paragraph with a [link](https://example.com).
+[Source link](https://example.com)
 
-![Helpful image description](images/example.png)
+![What the image shows](images/hero.png)
 
-- Bullet item
-- Another bullet item
-
-1. First step
-2. Second step
+- Bullet
+- Bullet
 ```
 
-## Write Useful Alt Text
-
-Alt text should explain the image’s meaning or important content, not just say “image.”
-
-```md
-![Earth viewed from space with shipping routes showing global connections](images/world-news-hero.png)
-```
-
-## Mermaid Diagrams
-
-Mermaid turns text into diagrams when a viewer supports it, including GitHub.
+Use Mermaid for a tiny explanation diagram:
 
 ```mermaid
 flowchart LR
-  Research --> Draft
-  Draft --> Source_Check
-  Source_Check --> Publish
+  Research --> Write --> Check --> Publish
 ```
 
-Keep diagrams small. A good diagram clarifies a relationship that would be harder to understand in a paragraph. The Global Events article uses a chokepoint flow, while the AI article uses a containment stack.
+Do not make diagrams huge. If a paragraph already explains it, skip the diagram.

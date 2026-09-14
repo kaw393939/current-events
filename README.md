@@ -1,38 +1,20 @@
-<div align="center">
-  <img src="images/global-ai-news-illustration.png" alt="A robot juggling a globe, newspaper, and satellite" width="720">
+# Current Events
 
-  <h1>Current Events</h1>
+Build a simple news site with AI, Markdown, Git, and GitHub Pages.
 
-  <p><strong>A student-friendly briefing on global developments and the technology shaping them.</strong></p>
+**Live site:** [kaw393939.github.io/current-events](https://kaw393939.github.io/current-events/)
 
-  <p><a href="https://kaw393939.github.io/current-events/">Visit the GitHub Pages site</a> · <a href="assignment.md">Student notes &amp; assignment guide</a></p>
-</div>
+## Start Here
 
-## Project Pages
+- [Do the in-class build](hands-on-test.md)
+- [Quick assignment checklist](assignment.md)
+- [Class notes](notes/README.md)
 
-| 🌍 Global Events | 🤖 AI Events |
-| --- | --- |
-| Follow international stories that affect people, trade, security, and everyday life. | Explore frontier AI, cybersecurity, alignment, and responsible technology. |
-| [Read Global Events →](global_events.md) | [Read AI Events →](ai_events.md) |
+## Example Content
 
-## Student Guide
+- [Global Events](global_events.md)
+- [AI Events](ai_events.md)
 
-The assignment guide breaks this project into small, repeatable skills for Thursday’s class.
+## The Idea
 
-- [Assignment overview and checklist](assignment.md)
-- [Hands-on skills demonstration](hands-on-test.md)
-- [Project structure and technologies](notes/project-structure.md)
-- [Prompting, research, and source links](notes/prompting-and-research.md)
-- [Markdown and Mermaid diagrams](notes/markdown-and-mermaid.md)
-- [Filesystem commands and project organization](notes/files-and-organization.md)
-- [Terminal, filesystem, and Git commands](notes/terminal-and-git.md)
-- [GitHub Pages publishing](notes/github-pages.md)
-
-## Featured Articles
-
-- **Global:** [Why the Strait of Hormuz and Bab el-Mandeb matter to oil markets](global_events.md#oil-at-risk-why-the-strait-of-hormuz-and-bab-el-mandeb-matter)
-- **AI:** [How Mythos-class frontier models change computer-security concerns](ai_events.md#mythos-and-computer-security-the-double-edged-promise-of-frontier-models)
-
-## About This Project
-
-Each article turns a current news development into a clear summary, visual explainer, and set of direct links to the original reporting or primary sources. The goal is to make complex topics easier to understand while keeping the evidence easy to check.
+Use Codex to help you research, write, make images, and build. Then use Git to save your work and GitHub Pages to share it. Keep it simple, check your sources, and understand what you turn in.

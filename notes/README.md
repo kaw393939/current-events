@@ -1,13 +1,9 @@
-# Student Notes & Instructions
+# Class Notes
 
-These pages explain the pieces used to build the Current Events project. Read them in order when you are new to the workflow, or jump to the topic you need.
+Use these when you get stuck. Read only the page you need.
 
-- [Project structure and technologies](project-structure.md)
-- [Prompting and research](prompting-and-research.md)
-- [Markdown and Mermaid diagrams](markdown-and-mermaid.md)
-- [Filesystem commands and project organization](files-and-organization.md)
+- [Files and folders](files-and-organization.md)
+- [Prompts and sources](prompting-and-research.md)
+- [Markdown and Mermaid](markdown-and-mermaid.md)
 - [Terminal and Git](terminal-and-git.md)
 - [GitHub Pages](github-pages.md)
-- [Hands-on skills demonstration](../hands-on-test.md)
-
-The live class-notes page is also available at [notes.html](../notes.html) after the GitHub Pages site is published.

@@ -5,7 +5,7 @@
 
 *September 2026*
 
-The Strait of Hormuz and the Bab el-Mandeb are two narrow waterways that connect major oil-producing regions with world markets. Hormuz is the exit from the Persian Gulf; Bab el-Mandeb links the Red Sea to the Gulf of Aden and the Indian Ocean. When shipping through Hormuz is interrupted, exporters may look for other routes, but Bab el-Mandeb has its own security risks. This means that disruption at one chokepoint can increase pressure on the other.
+The Strait of Hormuz is the exit from the Persian Gulf. Bab el-Mandeb links the Red Sea to the Indian Ocean. Both are narrow routes that matter for oil shipping. If one gets blocked or becomes unsafe, pressure moves to the other.
 
 ### How Two Chokepoints Create Global Oil Pressure
 
@@ -24,8 +24,8 @@ flowchart LR
     strain --> prices[Higher or more volatile fuel prices]
 ```
 
-In its August Oil Market Report, the International Energy Agency (IEA) said the continuing closure of Hormuz was disrupting supply chains and reducing product availability. The agency reported that Gulf oil output and tanker loadings had fallen sharply, and it lowered its 2026 global oil-supply forecast. It also said that an agreement to reopen Hormuz and allow unhindered transit through Bab el-Mandeb remained elusive. Recent reporting from the Associated Press noted that insecurity around Bab el-Mandeb had also weakened a route that Saudi Arabia had used as an alternative when Hormuz shipping was restricted.
+The International Energy Agency said the Hormuz closure was disrupting supply chains and cutting product availability. It also lowered its 2026 oil-supply forecast. The problem: Bab el-Mandeb is not a simple backup route because it has security risks too.
 
-For consumers, the effect may appear as higher or more volatile fuel prices. For governments and shipping companies, the problem is larger: oil can sometimes be rerouted through pipelines or around longer sea routes, but those alternatives have limited capacity and can cost more. The situation shows how a conflict near a narrow waterway can have economic effects far beyond the region.
+For people buying gas or plane tickets, this can mean higher or less predictable prices. Oil can be rerouted, but longer routes and pipelines cost more and have limited capacity.
 
 **Original sources:** [International Energy Agency — *Oil Market Report, August 2026*](https://www.iea.org/reports/oil-market-report-august-2026) and [Associated Press — *The Houthi advance in Yemen raises concerns about a key shipping choke point*](https://apnews.com/article/ab2e69eb2959979bae44eb4d45ae637e)
