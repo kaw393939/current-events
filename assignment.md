@@ -19,8 +19,9 @@ Create a public-facing current-events project with:
 1. [Plan the project structure and technologies](notes/project-structure.md)
 2. [Research a topic and write prompts that produce useful results](notes/prompting-and-research.md)
 3. [Format your writing with Markdown and Mermaid](notes/markdown-and-mermaid.md)
-4. [Use the terminal and Git safely](notes/terminal-and-git.md)
-5. [Publish with GitHub Pages](notes/github-pages.md)
+4. [Keep project files organized and use filesystem commands safely](notes/files-and-organization.md)
+5. [Use the terminal and Git safely](notes/terminal-and-git.md)
+6. [Publish with GitHub Pages](notes/github-pages.md)
 
 ## What This Example Includes
 

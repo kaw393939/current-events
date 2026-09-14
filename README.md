@@ -23,6 +23,7 @@ The assignment guide breaks this project into small, repeatable skills for Thurs
 - [Project structure and technologies](notes/project-structure.md)
 - [Prompting, research, and source links](notes/prompting-and-research.md)
 - [Markdown and Mermaid diagrams](notes/markdown-and-mermaid.md)
+- [Filesystem commands and project organization](notes/files-and-organization.md)
 - [Terminal, filesystem, and Git commands](notes/terminal-and-git.md)
 - [GitHub Pages publishing](notes/github-pages.md)
 
