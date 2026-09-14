@@ -10,11 +10,11 @@ Build a simple news site with AI, Markdown, Git, and GitHub Pages.
 - [Quick assignment checklist](assignment.md)
 - [Class notes](notes/README.md)
 
-## Example Content
+## Sample Pages
 
 - [Global Events](global_events.md)
 - [AI Events](ai_events.md)
 
 ## The Idea
 
-Use Codex to help you research, write, make images, and build. Then use Git to save your work and GitHub Pages to share it. Keep it simple, check your sources, and understand what you turn in.
+Use Codex to make sample text, images, and a simple site. Then use Git to save your work and GitHub Pages to share it. The words and topics are practice material—the workflow is the point.

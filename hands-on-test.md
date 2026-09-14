@@ -1,6 +1,6 @@
 # In-Class Build: Do the Whole Workflow
 
-**AI is allowed. Codex is required.** Your job is to repeat the workflow we used in class: clone, build, create content with AI, save with Git, and publish.
+**AI is allowed. Codex is required.** Your job is to repeat the workflow we used in class: clone, build, use Codex, save with Git, and publish.
 
 > “Do. Or do not. There is no try.” — Yoda
 
@@ -38,23 +38,23 @@ Keep images in `images/`. Keep your AI prompts and quick notes in `notes/process
 
 ## 4. Ask Codex to Help You Build
 
-Create:
+Create sample pages and assets:
 
-- One Global Events article
-- One AI Events article
-- One image for each article
-- A homepage that links to both articles
+- One Global Events Markdown page
+- One AI Events Markdown page
+- One image for each page
+- A homepage that links to both pages
 
-Each article needs a title, date, source link, useful alt text, and a small Mermaid diagram. Keep each article short: about 150–250 words.
+Each page needs a title, date, useful alt text, and a small Mermaid diagram. Keep the text short. The topic and words do not matter; the goal is to show that you can make and format the files.
 
 In `notes/process.md`, save:
 
-- One research prompt
+- One text-generation prompt
 - One image prompt
 - One revision prompt
-- The source links you checked
+- One short note about what Codex changed
 
-Use AI, but read the answer. Make sure you can explain it.
+Use Codex, then make sure you can explain the files and steps.
 
 ## 5. Use Git Like We Did in Class
 
@@ -66,7 +66,7 @@ git add .
 git commit -m "Set up mini site"
 
 git add .
-git commit -m "Add articles and visuals"
+git commit -m "Add pages and visuals"
 ```
 
 Show that you can stash unfinished work:
@@ -93,7 +93,7 @@ Turn on GitHub Pages with **GitHub Actions**, then add the live site link to you
 - Codex in VS Code
 - SSH working with GitHub
 - Your cloned repository and organized files
-- Two sourced Markdown articles with images and Mermaid
+- Two Markdown pages with images and Mermaid
 - Your prompts in `notes/process.md`
 - Two commits, a stash, and a push
 - A live GitHub Pages link

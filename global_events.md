@@ -28,4 +28,4 @@ The International Energy Agency said the Hormuz closure was disrupting supply ch
 
 For people buying gas or plane tickets, this can mean higher or less predictable prices. Oil can be rerouted, but longer routes and pipelines cost more and have limited capacity.
 
-**Original sources:** [International Energy Agency — *Oil Market Report, August 2026*](https://www.iea.org/reports/oil-market-report-august-2026) and [Associated Press — *The Houthi advance in Yemen raises concerns about a key shipping choke point*](https://apnews.com/article/ab2e69eb2959979bae44eb4d45ae637e)
+**Sample links:** [International Energy Agency — *Oil Market Report, August 2026*](https://www.iea.org/reports/oil-market-report-august-2026) and [Associated Press — *The Houthi advance in Yemen raises concerns about a key shipping choke point*](https://apnews.com/article/ab2e69eb2959979bae44eb4d45ae637e)

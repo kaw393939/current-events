@@ -39,4 +39,4 @@ flowchart TD
 
 This does not prove that AI has human-like goals. It shows why tool-using AI needs layers: a sandbox, network limits, limited credentials, live monitoring, and a human who can stop the run. AI can speed up defense and misuse at the same time, so the goal is to help defenders without giving attackers the same advantage.
 
-**Original sources:** [Anthropic — *Claude Mythos 5*](https://www.anthropic.com/claude/mythos), [Anthropic — *Investigating three real-world incidents in our cybersecurity evaluations*](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals), and [OpenAI — *The Hugging Face incident and other third-party impact from misaligned models*](https://openai.com/hugging-face-incident-and-misalignment/)
+**Sample links:** [Anthropic — *Claude Mythos 5*](https://www.anthropic.com/claude/mythos), [Anthropic — *Investigating three real-world incidents in our cybersecurity evaluations*](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals), and [OpenAI — *The Hugging Face incident and other third-party impact from misaligned models*](https://openai.com/hugging-face-incident-and-misalignment/)

@@ -6,7 +6,7 @@ Markdown is fast, plain-text formatting.
 # Big title
 ## Smaller section
 
-[Source link](https://example.com)
+[A link](https://example.com)
 
 ![What the image shows](images/hero.png)
 
@@ -18,7 +18,7 @@ Use Mermaid for a tiny explanation diagram:
 
 ```mermaid
 flowchart LR
-  Research --> Write --> Check --> Publish
+  Prompt --> Make --> Save --> Publish
 ```
 
 Do not make diagrams huge. If a paragraph already explains it, skip the diagram.
